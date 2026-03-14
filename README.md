@@ -1,9 +1,6 @@
-# Hi there 👋 I'm Angel Jael Tolentino Altamirano
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelAT-dev&show_icons=true&theme=tokyonight)
+# 👋 Hi, I'm Angel Jael Tolentino Altamirano
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAT-dev&layout=compact&theme=tokyonight)
-
-💻 Computer Science Engineer specialized in Emerging and Mobile Technologies  
+💻 Computer Science Engineer  
 🔐 Cybersecurity Enthusiast | Cisco Ethical Hacker Certified  
 📍 Chilpancingo, Guerrero, Mexico  
 
@@ -11,21 +8,20 @@
 
 ## 🚀 About Me
 
-I am passionate about cybersecurity, ethical hacking, and emerging technologies.  
-I enjoy learning about system security, networking, and developing IoT solutions.
+I am passionate about cybersecurity, networking, and emerging technologies.  
+I enjoy building tools that analyze networks, automate security tasks, and explore how cybersecurity systems work internally.
 
-Currently improving my skills in:
+Currently focusing on:
 
-- Cybersecurity
-- Ethical Hacking
-- Networking
-- Linux
-- Python
+- Cybersecurity fundamentals
+- Network security
+- Python for security automation
+- Ethical hacking concepts
+- Security monitoring and analysis
 
 ---
 
-## 🛠 Technologies & Tools
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
@@ -33,42 +29,78 @@ Currently improving my skills in:
 ![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
 
+Technologies and tools I work with:
+
 - Python
 - Linux
+- Networking fundamentals
+- Cybersecurity tools and concepts
 - Git & GitHub
-- Networking
-- Cybersecurity Fundamentals
+- Arduino / ESP32 (IoT)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelAT-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAT-dev&layout=compact&theme=tokyonight)
+
+---
+
+## 🔎 Featured Projects
+
+### 🔐 Python Security Scripts
+Collection of Python tools for cybersecurity learning, including:
+
+- Port Scanner
+- Vulnerability Scanner
+- Packet Sniffer
+- Network Scanner
+- Log Analyzer
+- Mini SIEM
+- Network Attack Detector
+
+Repository:  
+https://github.com/AngelAT-dev/python-security-scripts
+
+---
+
+### 🌊 Clean Water IoT System
+
+IoT system designed to filter soapy water using sensors, microcontrollers, and automated monitoring.
+
+Presented at **InnovaTec 2024 – National Technological Innovation Summit**.
+
+Technologies used:
+
 - Arduino
 - ESP32
-- IoT Systems
+- Sensors
+- IoT monitoring systems
 
 ---
 
 ## 📚 Certifications
 
-✔ Cisco Networking Academy – Introduction to Cybersecurity  
-✔ Cisco Networking Academy – Ethical Hacker  
+- Cisco Networking Academy — Introduction to Cybersecurity
+- Cisco Networking Academy — Ethical Hacker
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Goals
 
-### Clean Water – IoT Filtration System
-IoT system designed to filter soapy water using sensors, Arduino, and automated control systems.
-
-Presented at **InnovaTec 2024**.
-
----
-
-### IoT Device Programming
-Development of IoT devices using microcontrollers and sensors.
+- Improve cybersecurity and networking skills
+- Build practical security tools
+- Expand my cybersecurity portfolio
+- Start my career in cybersecurity
 
 ---
 
 ## 📫 Contact
 
-LinkedIn  
-https://www.linkedin.com/in/angel-jael-tolentino-altamirano-b32555346
+📧 Email  
+ajta_23@hotmail.com  
 
-Email  
-ajta_23@hotmail.com
+🔗 LinkedIn  
+https://www.linkedin.com/in/angel-jael-tolentino-altamirano-b32555346
