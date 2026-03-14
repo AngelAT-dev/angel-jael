@@ -1,4 +1,7 @@
 # Hi there 👋 I'm Angel Jael Tolentino Altamirano
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AngelAT-dev&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAT-dev&layout=compact&theme=tokyonight)
 
 💻 Computer Science Engineer specialized in Emerging and Mobile Technologies  
 🔐 Cybersecurity Enthusiast | Cisco Ethical Hacker Certified  
