@@ -25,6 +25,13 @@ Currently improving my skills in:
 ---
 
 ## 🛠 Technologies & Tools
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![Git](https://img.shields.io/badge/Git-orange?logo=git)
+![Arduino](https://img.shields.io/badge/Arduino-teal?logo=arduino)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
 
 - Python
 - Linux
