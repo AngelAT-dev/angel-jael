@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Angel Jael Tolentino Altamirano
 
+![Profile Views](https://komarev.com/ghpvc/?username=AngelAT-dev&color=blue)
+
 💻 Computer Science Engineer  
 🔐 Cybersecurity Enthusiast | Cisco Ethical Hacker Certified  
 📍 Chilpancingo, Guerrero, Mexico  
